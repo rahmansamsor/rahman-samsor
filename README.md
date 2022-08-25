@@ -7,7 +7,7 @@
 	
  ## Bootcamp alert
 - [MLSA Job Hunting Bootcamp](https://github.com/rahmansamsor/rahman-samsor) will started soon.
-<img align="right" alt="" src="Capture.PNG" width="270" />
+<img align="right" alt="" src="Capture.PNG" width="370" />
 	
 ## My Python Development Course 
 - [Python Backend Show with Saad Fareed](https://www.youtube.com/channel/UCB5JukXadSvscRtCI0JfGmw)
